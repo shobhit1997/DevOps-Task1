@@ -22,8 +22,8 @@ title: My Awesome blog
 email: shobhitagarwal756@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   My personal blog site to learn devOps and complete srujan's DevOps thread.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "devOps/" # the subpath of your site, e.g. /blog
+url: "http://shobhitagarwal.me/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Shobhit881997
 github_username: shobhit1997
 
