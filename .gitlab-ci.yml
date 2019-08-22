@@ -1,7 +1,7 @@
 image: ruby:2.5
 
 before_script:
-  - bundle install
+  - gem install jekyll bundler
 
 pages:
   stage: deploy
